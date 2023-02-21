@@ -1,1 +1,1 @@
-pub mod pi;
+pub mod leibniz_pi;
