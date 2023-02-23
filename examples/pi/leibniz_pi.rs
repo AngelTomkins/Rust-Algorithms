@@ -1,8 +1,10 @@
 // Pi Calculation Algorithms
+fn main() {
+    println!("Using Leibniz pi: pi = {}", calculate_pi_leibniz(5));
+}
 
 
 // Leibniz Formula
-#[allow(dead_code)]
 pub fn calculate_pi_leibniz(precision: usize) -> f64 {
     let mut pi = 0.0;
     let mut last_pi = 1.0;
