@@ -1,7 +1,20 @@
 # Rust-Algorithms
-A collection of algorithms written in Rust. Each example may have multiple different implementations due to more or less efficient code.
+A collection of algorithms written in Rust.
 
 ## Examples
+How to run examples:
+##### Download the code:
+```
+git clone https://github.com/AngelTomkins/Rust-Algorithms
+cd Rust-Algorithms
+```
+
+To run an example find the id you wish to run from the table below and run:
+
+```
+cargo run --example {id}
+```
+
 
 ## Pi
 
